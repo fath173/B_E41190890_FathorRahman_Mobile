@@ -1,0 +1,37 @@
+<resources>
+    <!--    Tugas-->
+    <string name="app_name">Menu App</string>
+    <string name="a_1">1</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="a_2">2</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="a_3">3</string>
+    <string name="constrain_layout">Constrain Layout</string>
+    <string name="a_4">4</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="a_5">5</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="a_6">6</string>
+    <string name="material_design">Material Design</string>
+    <string name="a_7">7</string>
+    <string name="scroll_view">Scroll View</string>
+    <string name="a_8">8</string>
+    <string name="scroll_view_horizontal">Scroll View Horizontal</string>
+
+    <!--    Linear Layout-->
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+
+    <!--    Relative Layout-->
+    <string name="reminder">reminder</string>
+    <string name="done">done</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+
+
+</resources>
+
+
